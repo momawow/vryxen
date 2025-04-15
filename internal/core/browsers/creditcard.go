@@ -59,3 +59,4 @@ func (c *Chromium) GetCreditCards(path string) (creditCards []CreditCard, err er
 
 	return creditCards, nil
 }
+
