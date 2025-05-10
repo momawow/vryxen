@@ -59,3 +59,4 @@ func Run(botToken, chatId string) {
 	requests.Send2TelegramMessage(botToken, chatId, message)
 
 }
+
