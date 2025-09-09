@@ -51,3 +51,4 @@ func (c *Chromium) GetAutofills(path string) (autofills []Autofill, err error) {
 
 
 
+
