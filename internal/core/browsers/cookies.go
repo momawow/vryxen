@@ -103,3 +103,4 @@ func (g *Gecko) GetCookies(path string) (cookies []Cookie, err error) {
 
 
 
+
